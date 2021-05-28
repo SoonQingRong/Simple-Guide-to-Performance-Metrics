@@ -1,5 +1,5 @@
 # Simple-Guide-to-Performance-Metrics
-A simple guide to use understand how some of the often used performance metrics are calculated in machine learning 
+A simple guide to understand how some of the often used performance metrics are calculated in machine learning 
 
 # Project Aim
 This project aims to provide a step-by-step manual calculation as to how some of the oftern used performance metrics are calculated, namely:

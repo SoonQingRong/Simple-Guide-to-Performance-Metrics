@@ -23,7 +23,7 @@ This project aims to provide a step-by-step manual calculation as to how some of
 9. We will then manually calculate the 7 metrics using their general formulas (found in the section below) and compare it with the in-built function values and the values in the classification report (all 3 should tally)
 
 # General formulas used
-1. Precision = TP / (TP + FP
+1. Precision = TP / (TP + FP)
 2. Recall = TP / (TP + FN)
 3. F1 Score = 2 * (Precision * Recall) / (Precision + Recall)
 4. Support = Number of occurences of each class in y_test (y_true)
